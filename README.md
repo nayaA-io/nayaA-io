@@ -12,27 +12,3 @@ I'm a software engineer based in United Kingdom with a solid background in both 
 ✉️  You can contact me at nayaanozie@gmail.com
 
 
-
-
-JavaScriptC#GitTypeScriptVS CodeReactHTML5SassNextJsCSS3ViteTailwindCSSNodeJSExpressMongoDBMySQLFirebaseHeroku
-
-# My Skills
-
-- JavaScript ☕️
-- C# ⌨️
-- Git 🦊
-- TypeScript 📜
-- VS Code 🖥️
-- React ⚛️
-- HTML5 🌐
-- Sass 🎨
-- Next.js 🔗
-- CSS3 🎨
-- Vite ⚡️
-- Tailwind CSS 🌬️
-- Node.js 🌳
-- Express 🚀
-- MongoDB 🍃
-- MySQL 🐬
-- Firebase 🔥
-- Heroku ☁️

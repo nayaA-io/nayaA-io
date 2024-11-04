@@ -6,7 +6,7 @@ I'm a software developer based in United Kingdom with a solid background in both
 
 
 * 🌍  I'm based in Hampshire (UK)
-* 🧠  I'm learning Typerscript, Python
+* 🧠  I'm learning Typescript, Python
 * 🤝  I'm open to collaborating on any interesting projects
 * ⚡  I'm building TubeTrove (Personal Project)
 * ✉️  You can contact me at nayaanozie@gmail.com
